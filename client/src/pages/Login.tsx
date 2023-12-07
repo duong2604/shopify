@@ -1,4 +1,4 @@
-export default function Example() {
+export default function Login() {
   return (
     <>
       <div className="flex min-h-full flex-1 flex-col justify-center px-6 py-12 lg:px-8">
@@ -79,7 +79,7 @@ export default function Example() {
               href="#"
               className="font-semibold leading-6 text-indigo-600 hover:text-indigo-500"
             >
-              Sign up now !
+              Create an account !
             </a>
           </p>
         </div>
